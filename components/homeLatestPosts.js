@@ -20,5 +20,4 @@ const HomeLatestPosts = ({posts}) => {
     </ul>
   )
 }
-
 export default HomeLatestPosts
